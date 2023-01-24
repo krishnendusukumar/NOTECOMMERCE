@@ -1,0 +1,42 @@
+.header {
+    width: 100%;
+    height: 100VH;
+    justify-content: center;
+    align-items: center;
+    background-color: #DDDDDD;
+}
+
+.login__div {
+    margin-bottom: 10%;
+}
+
+.header__intro {
+    font-size: x-large;
+    font-weight: 700;
+    margin-bottom: 10%;
+}
+
+.login__username {
+    padding-left: 20%;
+    border-radius: 5%;
+    border: white;
+    height: 5vh;
+}
+
+.login__password {
+    margin-top: 15%;
+    padding-left: 35%;
+    border-radius: 5%;
+    border: white;
+    height: 5vh;
+}
+
+.login__button {
+    height: 5vh;
+    margin-top: 15%;
+    border-radius: 5%;
+    background-color: #03C988;
+    color: white;
+    border: white;
+    font-size: 2rem;
+}
